@@ -1,10 +1,5 @@
-import math
-
 from docxtpl import DocxTemplate
-import pandas as pd
 import random
-import re
-from datetime import datetime, timedelta
 from datetime import date
 from calendarweek import CalendarWeek
 
